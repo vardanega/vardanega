@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning HTML 5, CSS 3, Javacript
 - 💬 Ask me about Hardware, Mechanics
-- 📫 How to reach me: andrevardanega@icloud.com
+- 📫 How to reach me: andrevardanega@gmail.com
 <div align="center">
   <a href="https://github.com/andrevardanega">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=vardanega&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
