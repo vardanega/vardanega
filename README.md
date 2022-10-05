@@ -3,12 +3,10 @@
 - 🌱 I’m currently learning HTML 5, CSS 3, Javacript
 - 💬 Ask me about Hardware, Mechanics
 - 📫 How to reach me: andrevardanega@icloud.com
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: ...
 <div align="center">
   <a href="https://github.com/andrevardanega">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=vardanega&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vardanega&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vardanega&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vardanega&layout=compact&langs_count=7&theme=codeSTACKr"/>
    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPI5LgsKzxk26inWSh5Smy4IMCQ0-LVTXdPw&usqp=CAU">
 </div>
 
