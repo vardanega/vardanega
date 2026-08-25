@@ -1,20 +1,31 @@
-### Hello. My name is André Luiz Vardanega
+# Hi, I'm André Luiz Vardanega 👋
 
-- 🌱 I’m currently learning HTML 5, CSS 3, Javacript
-- 📫 How to reach me: andrevardanega@gmail.com
-<div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=vardanega&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vardanega&layout=compact&langs_count=7&theme=codeSTACKr"/>
-</div>
+I'm building a solid foundation in programming, with a current focus on Python, problem-solving and practical projects.
 
- <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+## About me
 
- ## <div> 
-  <a href="https://www.instagram.com/andrevardanega/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:andrevardanega@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andre-luiz-vardanega-89a21321b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+- 🐍 Currently learning Python and programming fundamentals
+- 🧠 Strengthening my skills in logic, algorithms and problem-solving
+- 🛠️ Building practical projects to turn theory into real experience
+- 🧭 Exploring different paths in technology before choosing a specialization
+- 🌐 Interested in learning more about web development and industrial automation in the future
+
+## Current learning focus
+
+- Python
+- Programming logic
+- Algorithms and data structures
+- Git and GitHub
+- Software development fundamentals
+
+## Goals
+
+- Build a strong and transferable programming foundation
+- Create useful, well-documented projects
+- Explore web development, automation and other technology paths
+- Keep learning through consistent practice
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/andre-luiz-vardanega-89a21321b/)
+- [Email](mailto:andrevardanega@gmail.com)
