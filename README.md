@@ -1,29 +1,23 @@
 # Hi, I'm André Luiz Vardanega 👋
 
-I'm building a solid foundation in programming, with a current focus on Python, problem-solving and practical projects.
+I'm learning programming with a clear goal: to become a UI Engineer. I want to turn interface designs into working websites, with attention to layout, interaction and accessibility.
 
-## About me
+## My direction
 
-- 🐍 Currently learning Python and programming fundamentals
-- 🧠 Strengthening my skills in logic, algorithms and problem-solving
-- 🛠️ Building practical projects to turn theory into real experience
-- 🧭 Exploring different paths in technology before choosing a specialization
-- 🌐 Interested in learning more about web development and industrial automation in the future
+I'm focusing on the connection between design and front-end development. My next step is to build small interfaces and learn how to make them work well on different screen sizes.
 
-## Current learning focus
+## Learning goals
 
-- Python
-- Programming logic
-- Algorithms and data structures
-- Git and GitHub
-- Software development fundamentals
+- HTML, CSS and JavaScript fundamentals
+- Responsive layouts, typography and spacing
+- Accessible interfaces and keyboard navigation
+- Figma and translating designs into code
+- Reusable UI components
+- Git, GitHub and clear project documentation
 
-## Goals
+## What you'll find here
 
-- Build a strong and transferable programming foundation
-- Create useful, well-documented projects
-- Explore web development, automation and other technology paths
-- Keep learning through consistent practice
+This profile will document my progress through exercises and UI projects. I'll share what I build, explain my decisions and keep improving the work as I learn.
 
 ## Contact
 
