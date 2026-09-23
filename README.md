@@ -1,12 +1,12 @@
-I'm André Luiz Vardanega
+# I'm André Luiz Vardanega
 
 UI and Front-End Developer based in Lombardia, Italy.
 I build responsive, accessible and visually polished web interfaces, combining interface design with front-end development.
 
 ## Selected projects
-- **Tavola al Lago** — Responsive restaurant website with an interactive menu and reservation experience.
-- **PulseDesk** — Customer support dashboard with ticket filtering, search and operational metrics.
-- **Wedding Website** — Responsive event website focused on clear presentation and usability.
+- **[Tavola al Lago](https://github.com/vardanega/Tavola_al_Lago)** — Responsive restaurant website with an interactive menu and reservation experience.
+- **[PulseDesk](https://github.com/vardanega/Help_Desk_Support)** — Customer support dashboard with ticket filtering, search and operational metrics.
+- **[Wedding Website](https://github.com/vardanega/Wedding_List)** — Responsive event website focused on clear presentation and usability.
 
 ## Technologies
 HTML, CSS, JavaScript, TypeScript, React and Tailwind CSS.
