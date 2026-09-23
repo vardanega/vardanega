@@ -5,7 +5,7 @@ I build responsive, accessible and visually polished web interfaces, combining i
 
 ## Selected projects
 - **[Tavola al Lago](https://github.com/vardanega/Tavola_al_Lago)** — Responsive restaurant website with an interactive menu and reservation experience.
-- **[PulseDesk](https://github.com/vardanega/Help_Desk_Support)** — Customer support dashboard with ticket filtering, search and operational metrics.
+- **[Help_Desk_Support](https://github.com/vardanega/Help_Desk_Support)** — Customer support dashboard with ticket filtering, search and operational metrics.
 - **[Wedding Website](https://github.com/vardanega/Wedding_List)** — Responsive event website focused on clear presentation and usability.
 
 ## Technologies
