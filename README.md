@@ -1,25 +1,19 @@
-# Hi, I'm André Luiz Vardanega 👋
+I'm André Luiz Vardanega
 
-I'm learning programming with a clear goal: to become a UI Engineer. I want to turn interface designs into working websites, with attention to layout, interaction and accessibility.
+UI and Front-End Developer based in Lombardia, Italy.
+I build responsive, accessible and visually polished web interfaces, combining interface design with front-end development.
 
-## My direction
+## Selected projects
+- **Tavola al Lago** — Responsive restaurant website with an interactive menu and reservation experience.
+- **PulseDesk** — Customer support dashboard with ticket filtering, search and operational metrics.
+- **Wedding Website** — Responsive event website focused on clear presentation and usability.
 
-I'm focusing on the connection between design and front-end development. My next step is to build small interfaces and learn how to make them work well on different screen sizes.
+## Technologies
+HTML, CSS, JavaScript, TypeScript, React and Tailwind CSS.
 
-## Learning goals
-
-- HTML, CSS and JavaScript fundamentals
-- Responsive layouts, typography and spacing
-- Accessible interfaces and keyboard navigation
-- Figma and translating designs into code
-- Reusable UI components
-- Git, GitHub and clear project documentation
-
-## What you'll find here
-
-This profile will document my progress through exercises and UI projects. I'll share what I build, explain my decisions and keep improving the work as I learn.
+## Current focus
+Responsive web development, accessible interfaces, reusable components and consistent user experiences.
 
 ## Contact
-
 - [LinkedIn](https://www.linkedin.com/in/andre-luiz-vardanega-89a21321b/)
 - [Email](mailto:andrevardanega@gmail.com)
